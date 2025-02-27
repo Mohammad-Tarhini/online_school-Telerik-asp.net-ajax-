@@ -13,11 +13,4 @@ This is a web-based school management system built using ASP.NET Web Forms with 
 <li>📌 Course Management (View & Register for Courses)</li>
 <li>📌 AJAX-based UI for smooth interactions </li>
   </ul>
-⚙️ Setup Instructions
-1️⃣ Prerequisites
-Before running the project, ensure you have:
-<ul>
-<li>Visual Studio installed</li>
-<li>SQL Server configured</li>
-<li>Telerik UI for ASP.NET AJAX installed </li>
-</ul>
+
